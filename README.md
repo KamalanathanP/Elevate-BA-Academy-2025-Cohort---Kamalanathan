@@ -118,7 +118,7 @@ Elevate-BA-Academy-2025-Cohort---Kamalanathan/
 - Queries were executed using *MySQL*, adapted from Redshift-style tasks where necessary
 - Sample data is manually created and representative of real use cases
 - Screenshot folders include evidence of schema creation, data insertion, and query execution
-
+ 
 ---
 
 ## ✍️ Author
